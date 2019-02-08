@@ -13,6 +13,7 @@ I help healthcare and medical organizations with machine learning and interactiv
 I wanted to find out what types of drugs people are on and why they are on them. To begin answering this question, I decided to wrangle, explore, and visualize 10 years worth of Medicaid data. Links for the blogpost and code are found below.
 
 [What types of drugs are people on?](https://medium.com/@dmitriy.kavyazin/what-drugs-are-people-on-56ce31b40a4f)
+
 [Github repo](https://github.com/DimaKav/Data_storytelling_project/blob/master/DRUG_data.ipynb)
 
 ### Contact
