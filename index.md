@@ -6,7 +6,7 @@ I help healthcare and medical organizations with machine learning and interactiv
 
 ### Projects
 
-### Analyzing and Exploring 10 years of Medicaid Data
+#### Analyzing and Exploring 10 years of Medicaid Data
 
 In this project I explored and analyzed Drug Utilization data from Medicaid from 2007 - 2017.
 
