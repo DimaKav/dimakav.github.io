@@ -1,2 +1,2 @@
 # dimakav.github.io
-Dmitriy Kavyazin's portfolio of awesome data science projects
+Dmitriy Kavyazin's portfolio of data science projects
