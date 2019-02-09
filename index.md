@@ -6,7 +6,7 @@ I help healthcare and medical organizations with machine learning and interactiv
 
 ### Projects 
 
-#### 1. Analyzing and Exploring 10 years of Medicaid Data(https://medium.com/@dmitriy.kavyazin/what-drugs-are-people-on-56ce31b40a4f) 
+#### [1. Analyzing and Exploring 10 years of Medicaid Data](https://medium.com/@dmitriy.kavyazin/what-drugs-are-people-on-56ce31b40a4f) 
 
 ![](gif_small.gif)
 
