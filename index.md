@@ -6,7 +6,7 @@ I help healthcare and medical organizations with machine learning and interactiv
 
 ### Projects
 
-#### Analyzing and Exploring 10 years of Medicaid Data
+#### 1. Analyzing and Exploring 10 years of Medicaid Data
 
 ![](gif_small.gif)
 
