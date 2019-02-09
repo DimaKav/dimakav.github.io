@@ -1,8 +1,6 @@
 ### Data Scientist
 
-I'm a data scientist who is interested in analyzing complex data in a way that everyone can understand.
-
-I help healthcare and medical organizations with machine learning and interactive data visualizations.
+I'm interested in analyzing complex data in a way that everyone can understand and helping healthcare and medical organizations with machine learning and interactive data visualizations.
 
 ### Projects 
 
