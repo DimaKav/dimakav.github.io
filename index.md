@@ -14,7 +14,7 @@ I wanted to find out what types of drugs people are on and why they are on them.
 
 #### 2. Florida's Low Prescription Rates
 
-In my first projects, I discovered that Florida had a relatively low number of prescriptions for people in Medicaid. A natural question arose: why? To answer, I dug even deeper into Medicaid data and loaded all available data (27 years) into a dataframe to try to see trends with a higher sample size. The trend was still there and I wrote about my findings in a blog post.
+In my first projects, I discovered that Florida had a relatively low number of prescriptions for people in Medicaid. A natural question arose: why? To answer, I dug even deeper into Medicaid data and loaded all available data (27 years) into a dataframe to try to see trends with a higher sample size.
 
 ### Contact
 
