@@ -1,6 +1,6 @@
 ### Data Scientist
 
-I'm interested in analyzing complex data in a way that everyone can understand and helping healthcare and medical organizations with machine learning and interactive data visualizations.
+I'm interested in analyzing data in a way that everyone can understand and helping organizations with machine learning and interactive data visualizations. Every domain has interesting problems but healthcare and medicine interest me the most.
 
 ### Projects 
 
@@ -12,7 +12,7 @@ I wanted to find out what types of drugs people are on and why they are on them.
 
 #### 2. TBD
 
-Probably something with healthcare or medical data.
+Probably something with healthcare or medical data, but maybe not.
 
 ### Contact
 
