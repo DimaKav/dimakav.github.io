@@ -1,6 +1,6 @@
 ### Data Scientist
 
-I'm interested in analyzing data in a way that everyone can understand and helping organizations with machine learning and interactive data visualizations. Every domain has interesting problems but healthcare and medicine interest me the most.
+I'm interested in analyzing data in a way that everyone can understand and helping organizations with machine learning and interactive data visualizations.
 
 ### Projects 
 
