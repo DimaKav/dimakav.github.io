@@ -16,5 +16,4 @@ In my first projects, I discovered that Florida had a relatively low number of p
 
 ### Contact
 
-- [Email](mailto:dkav@live.com)
 - [LinkedIN](https://www.linkedin.com/in/dkavyazin/)
