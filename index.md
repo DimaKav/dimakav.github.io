@@ -8,7 +8,7 @@ I'm interested in analyzing complex data in a way that everyone can understand a
 
 ![](heatmap_gif_small.gif)
 
-I wanted to find out what types of drugs people are on and why they are on them. To begin answering this question, I cleaned, explored, and visualized 10 years of Medicaid data. Surprising discovery: Florida has a low rate of prescriptions in comparsion to other highly populated states. [Code.](https://github.com/DimaKav/Data_storytelling_project/blob/master/Exploring_All_Medicaid_Data.ipynb)
+I wanted to find out what types of drugs people are on and why they are on them. To begin answering this question, I cleaned, explored, and visualized 10 years of Medicaid data. Key insights: raw Medicaid data is a mess, graphs can be deceiving, Hydrocodone is the number one most prescribed drug, ever. [Code.](https://github.com/DimaKav/Data_storytelling_project/blob/master/Exploring_All_Medicaid_Data.ipynb)
 
 #### 2. An Analysis of Florida's Low Prescription Rates in People Enrolled in Medicaid (in progress)
 
