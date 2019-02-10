@@ -4,7 +4,7 @@ I'm interested in analyzing complex data in a way that everyone can understand a
 
 ### Projects 
 
-#### [1. Analyzing and Exploring 10 years of Medicaid Data](https://medium.com/@dmitriy.kavyazin/what-drugs-are-people-on-56ce31b40a4f) 
+#### [1. Analyzing and Exploring 26 years of Medicaid Data](https://medium.com/@dmitriy.kavyazin/what-drugs-are-people-on-56ce31b40a4f) 
 
 ![](heatmap_gif_small.gif)
 
