@@ -1,4 +1,4 @@
-### Data Explorer
+### Data Explorer 
 
 I'm interested in analyzing data in a way that everyone can understand and helping organizations with machine learning and interactive data visualizations.
 
