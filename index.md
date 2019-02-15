@@ -8,7 +8,7 @@ I'm interested in analyzing data in a way that everyone can understand and helpi
 
 ![](heatmap_gif_small.gif)
 
-I wanted to find see what types of drugs people are on and why they are on them. To begin answering this question, I cleaned, explored, and visualized all of the available drug utilization data from Medicaid.gov. Check out my findings in this blogpost: (https://link.medium.com/V3GE3LpFeU) 
+I wanted to find see what types of drugs people are on and why they are on them. To begin answering this question, I cleaned, explored, and visualized all of the available drug utilization data from Medicaid.gov. Check out my findings in this blogpost: https://link.medium.com/V3GE3LpFeU
 
 [Code.](https://github.com/DimaKav/Data_storytelling_project/blob/master/Exploring_All_Medicaid_Data.ipynb)
 
