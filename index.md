@@ -14,7 +14,7 @@ I wanted to find see what types of drugs people are on and why they are on them.
 
 ![](k_means.gif)
 
-Dimensionality reduction by PCA and k-means clustering to visualize patterns in data from diet, physical examinations, and hospital laboratory reports. [Blog](https://link.medium.com/01qzaM1CtU) [Code.](https://github.com/DimaKav/NHANES_project)
+Dimensionality reduction by PCA and k-means clustering to visualize patterns in data from diet, physical examinations, and hospital laboratory reports. [Blog.](https://link.medium.com/01qzaM1CtU) [Code.](https://github.com/DimaKav/NHANES_project)
 
 ### Contact
 
