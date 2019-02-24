@@ -20,4 +20,4 @@ Dimensionality reduction by PCA and k-means clustering to visualize patterns in 
 
 - [LinkedIN](https://www.linkedin.com/in/dkavyazin/)
 - [Twitter](https://twitter.com/d_kav)
-- [GitHub](https://github.com/DimaKav?tab=repositories)
+- [GitHub](https://github.com/DimaKav)
