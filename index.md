@@ -16,6 +16,10 @@ I wanted to find see what types of drugs people are on and why they are on them.
 
 Dimensionality reduction by PCA and k-means clustering to visualize patterns in data from diet, physical examinations, and hospital laboratory reports. [Blog.](https://link.medium.com/01qzaM1CtU) [Code.](https://github.com/DimaKav/NHANES_project)
 
+#### 3. Predicting the Status of Water Pumps in Tanzania
+
+Using data from Taarifa and the Tanzanian Ministry of Water, I predicted the status of water pumps (82% accuracy) based on three categories: functional, needs repairs, does not work. This dataset describes a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania. [Code.] (https://github.com/DimaKav/Tanzanian_waterpumps_project)
+
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/dkavyazin/)
