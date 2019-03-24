@@ -4,11 +4,11 @@ I'm interested in analyzing data in a way that everyone can understand and helpi
 
 ### Projects 
 
-#### 1. Analyzing and Exploring 26 years of Medicaid Data
+#### 1. Exploring 26 Years of Medicaid Data
 
 ![](heatmap_gif_small.gif)
 
-I wanted to find see what types of drugs people are on and why they are on them. To begin answering this question, I cleaned, explored, and visualized all of the available drug utilization data from Medicaid.gov. [Blog.](https://link.medium.com/V3GE3LpFeU) [Code.](https://github.com/DimaKav/Data_storytelling_project/blob/master/Exploring_All_Medicaid_Data.ipynb)
+I wanted to gain a better understanding of drug utilization rates in the U.S so I analyzed prescription rates in a large subset of medicaid drug data. This project demonstrates various cleaning, exploration, and visualization techniques which I performed on all of the available drug utilization data from Medicaid.gov. [Blog.](https://link.medium.com/V3GE3LpFeU) [Code.](https://github.com/DimaKav/Data_storytelling_project/blob/master/Exploring_All_Medicaid_Data.ipynb)
 
 #### 2. k-means and PCA to Visualize Clusters in National Health Survey Data
 
