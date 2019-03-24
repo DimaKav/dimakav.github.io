@@ -8,7 +8,7 @@ I'm interested in analyzing data in a way that everyone can understand and helpi
 
 ![](heatmap_gif_small.gif)
 
-I wanted to gain a better understanding of drug utilization rates in the U.S so I analyzed prescription rates in a large subset of medicaid drug data. This project demonstrates various cleaning, exploration, and visualization techniques which I performed on all of the available drug utilization data from Medicaid.gov. [Blog.](https://link.medium.com/V3GE3LpFeU) [Code.](https://github.com/DimaKav/Data_storytelling_project/blob/master/Exploring_All_Medicaid_Data.ipynb)
+I wanted to gain a better understanding of drug utilization rates in the U.S, so I analyzed prescription rates in a large subset of medicaid drug data. This project demonstrates various cleaning, exploration, and visualization techniques which I performed on all of the available drug utilization data from Medicaid.gov. [Blog.](https://link.medium.com/V3GE3LpFeU) [Code.](https://github.com/DimaKav/Data_storytelling_project/blob/master/Exploring_All_Medicaid_Data.ipynb)
 
 #### 2. k-means and PCA to Visualize Clusters in National Health Survey Data
 
