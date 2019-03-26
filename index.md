@@ -18,7 +18,11 @@ Dimensionality reduction by PCA and k-means clustering to visualize patterns in 
 
 #### 3. Predicting the Status of Water Pumps in Tanzania
 
-This project demonstrates the skillfull application of feature engineering, hyperparameter tuning, and predictive modelling to a multi-class classficiation problem. Using data from Taarifa and the Tanzanian Ministry of Water, I predicted the status of water pumps based on three categories: functional, needs repairs, does not work. This dataset describes a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania. [Code.](https://github.com/DimaKav/Tanzanian_waterpumps_project)
+This project demonstrates the application of feature engineering, hyperparameter tuning, and predictive modelling techniques to a multi-class classficiation problem. Using data from Taarifa and the Tanzanian Ministry of Water, I predicted the status of water pumps based on three categories: functional, needs repairs, does not work. This dataset describes a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania. [Code.](https://github.com/DimaKav/Tanzanian_waterpumps_project)
+
+#### 4. Using Clustersing to Analyze Price Dynamics in Stocks and Cryptocurrencies
+
+Hierarchical, k-Means, t-SNE, and PCA clustering to analyze price movements.
 
 ### Contact
 
