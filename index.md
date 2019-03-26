@@ -24,6 +24,8 @@ This project demonstrates the application of feature engineering, hyperparameter
 
 Hierarchical, k-Means, t-SNE, and PCA clustering to analyze price movements.
 
+#### 5. Something Creative, Over the Top, and Risky
+
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/dkavyazin/)
