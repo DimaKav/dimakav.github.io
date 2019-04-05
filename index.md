@@ -29,3 +29,4 @@ Hierarchical, k-Means, t-SNE, and PCA clustering to analyze price movements.
 - [LinkedIn](https://www.linkedin.com/in/dkavyazin/)
 - [Twitter](https://twitter.com/d_kav)
 - [GitHub](https://github.com/DimaKav)
+- [Email](dmitriy.kavyazin@gmail.com)
