@@ -24,6 +24,11 @@ This project demonstrates the application of feature engineering, hyperparameter
 
 Hierarchical, k-Means, t-SNE, and PCA clustering to analyze price movements.
 
+#### 5. Analyzing Term Frequencies in 11 sacred texts with TF-IDF and LDA
+
+11 Sacred texts were compiled from online sources, tokenized, and vectorized. An interactive visualization was made which represents 11 Latent Dirichlet Association clusters of the corpus using TF-IDF. An html was generated and depoyed as a static page. [Site.](https://dimakav.github.io/sacred_texts_LDA/tfidf)
+
+
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/dkavyazin/)
