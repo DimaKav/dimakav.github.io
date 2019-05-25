@@ -24,6 +24,13 @@ This project demonstrates the application of feature engineering, hyperparameter
 
 11 Sacred texts were compiled from online sources, tokenized, and vectorized. An interactive visualization was made which represents 11 Latent Dirichlet Association clusters of the corpus using TF-IDF. An html was generated and deployed as a static page. [Site.](https://dimakav.github.io/sacred_texts_LDA/tfidf)
 
+#### 5. Picasso Painted It
+
+This app was developed with a team of data scientists, front-end, and back-end engineers as a project for my first build week at Lambda School in ~4 days. The user inputs a photo which gets processes by a deep learning style transfer algorithm to be rendered in a style of a Picasso painting. [Site.](https://picasso-frontend.netlify.com/)
+
+#### 6. Tweetmate
+
+This app was developed with a team of data scientists, front-end, and back-end engineers as a project for my second build week at Lambda School in ~4 days. It allows the user to gain a deeper understanding of themselves through a psychographic analysis of their text on Twitter. [Site.](https://tweetmate.netlify.com)
 
 ### Contact
 
