@@ -30,7 +30,7 @@ This app was developed with a team of data scientists, front-end, and back-end e
 
 #### 6. Tweetmate
 
-![](tweetmat_gif.gif)
+![](tweetmate_gif.gif)
 
 This app was developed with a team of data scientists, front-end, and back-end engineers as a project for my second build week at Lambda School in ~4 days. It allows the user to gain a deeper understanding of themselves through a psychographic analysis of their text on Twitter. [Site.](https://tweetmate.netlify.com)
 
