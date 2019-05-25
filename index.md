@@ -26,7 +26,7 @@ This project demonstrates the application of feature engineering, hyperparameter
 
 #### 5. Picasso Painted It
 
-This app was developed with a team of data scientists, front-end, and back-end engineers as a project for my first build week at Lambda School in ~4 days. The user inputs a photo which gets processes by a deep learning style transfer algorithm to be rendered in a style of a Picasso painting. [Site.](https://picasso-frontend.netlify.com/)
+This app was developed with a team of data scientists, front-end, and back-end engineers as a project for my first build week at Lambda School in ~4 days. The user inputs a photo which gets processed by a deep learning style transfer algorithm to be rendered in a style of a Picasso painting. [Site.](https://picasso-frontend.netlify.com/)
 
 #### 6. Tweetmate
 
