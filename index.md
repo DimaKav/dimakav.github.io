@@ -4,7 +4,7 @@ I'm interested in analyzing data in a way that everyone can understand and helpi
 
 ### Projects 
 
-#### 1. Creating an Automated Serverless Data Pipeline for Classification and Visualization of Financial News Sentiment with Dash
+#### 1. The Creation of an Automated Serverless Data Pipeline and Analysis of Financial News Sentiment with Dash
 
 ![](news-sentiment.gif)
 
