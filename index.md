@@ -47,4 +47,3 @@ This app was developed with a team of data scientists, front-end, and back-end e
 - [LinkedIn](https://www.linkedin.com/in/dkavyazin/)
 - [Twitter](https://twitter.com/d_kav)
 - [GitHub](https://github.com/DimaKav)
-- [Email](dmitriy.kavyazin@gmail.com)
