@@ -1,6 +1,6 @@
 ### Data Scientist 
 
-I'm interested in analyzing data in a way that everyone can understand and helping organizations with machine learning and interactive visualizations.
+ I’m interested in building data-driven applications using machine learning and artificial intelligence.
 
 ### Projects 
 
