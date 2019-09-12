@@ -8,7 +8,7 @@
 
 ![](news-sentiment.gif)
 
-Gathering news data through a serverless pipeline on AWS with lambda functions and creating an interactive dashboard to visualize it. [Blog.](https://medium.com/@dmitriy.kavyazin/serverless-data-pipeline-for-classification-of-financial-news-sentiment-and-visualization-with-dash-f4ba7c959051?source=friends_link&sk=c496a4b68d0a84226ec278891507eb9a) [Site.](https://news-sentiment-get-money.herokuapp.com/)
+Gathering news data through a serverless pipeline on AWS with lambda functions and creating an interactive dashboard to visualize it. [Blog.](https://medium.com/@dmitriy.kavyazin/serverless-data-pipeline-for-classification-of-financial-news-sentiment-and-visualization-with-dash-f4ba7c959051?source=friends_link&sk=c496a4b68d0a84226ec278891507eb9a) [Site.](https://news-sentiment-get-money.herokuapp.com/) * be patient, it's pulling data from static storage
 
 #### 2. Exploring 26 Years of Medicaid Data
 
