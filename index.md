@@ -26,17 +26,13 @@ Dimensionality reduction by PCA and k-means clustering to visualize patterns in 
 
 This project demonstrates the application of feature engineering, hyperparameter tuning, and predictive modelling techniques to a multi-class classficiation problem. Using data from Taarifa and the Tanzanian Ministry of Water, I predicted the status of water pumps based on three categories: functional, needs repairs, does not work. This dataset describes a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania. [Code.](https://github.com/DimaKav/Tanzanian_waterpumps_project)
 
-#### 5. Analyzing Term Frequencies in 11 sacred texts with TF-IDF and LDA
-
-11 Sacred texts were compiled from online sources, tokenized, and vectorized. An interactive visualization was made which represents 11 Latent Dirichlet Association clusters of the corpus using TF-IDF. An html was generated and deployed as a static page. [Site.](https://dimakav.github.io/sacred_texts_LDA/tfidf)
-
-#### 6. Picasso Painted It
+#### 5. Picasso Painted It
 
 ![](picasso_painted_it.gif)
 
 This app was developed with a team of data scientists, front-end, and back-end engineers as a project for my first build week at Lambda School in ~4 days. The user inputs a photo which gets processed by a deep learning style transfer algorithm to be rendered in a style of a Picasso painting. [Site.](https://picasso-frontend.netlify.com/)
 
-#### 7. Tweetmate
+#### 6. Tweetmate
 
 ![](tweet_mate_gif.gif)
 
